@@ -3,7 +3,8 @@
 - 🚗 Building marketing, GPS, and analytics systems for the automotive industry  
 - 🌱 Flutter dev since 2020 | 20+ years backend experience (Python/PHP)  
 - 🚀 Co-founded 6 startups delivering cloud-based applications at scale  
-- 💞️ Open to collaborating on web, mobile, SaaS, and data-driven products  
+- 💞️ Open to collaborating on web, mobile, SaaS, and data-driven products
+- ✉️ hello@codebyflo.com
 
 ### Skills
 - Linux System Administration  
